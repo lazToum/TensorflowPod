@@ -2,17 +2,17 @@
 
 ## Build Tensorflow for iOS on macOS
 
-* [Prerequsite] Install xcode cli tools
+* [Prerequisite] Install xcode cli tools
     ```
     $ xcode-select --install
     ```
 
-* [Prerequsite] Install automake and libtool
+* [Prerequisite] Install automake and libtool
     ```
     $ brew install automake libtool
     ```
     
-* [Prerequsite] Install gnu-tar
+* [Prerequisite] Install gnu-tar
     ```
     $ brew install gnu-tar
     ```
@@ -44,7 +44,7 @@
 
 ## Integrate TensorFlow as Pod
 
-* [Prerequsite] Install Cocoapods
+* [Prerequisite] Install Cocoapods
     ```
     sudo gem install cocoapods
     ```
