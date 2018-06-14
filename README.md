@@ -52,7 +52,7 @@
         use_frameworks!
 
         # Pods for DemoApp
-        pod 'TensorflowPod', :podspec => 'https://raw.githubusercontent.com/rainbean/TensorflowPod/master/TensorflowPod.podspec'
+        pod 'TensorflowPod', :podspec => 'https://raw.githubusercontent.com/lazToum/TensorflowPod/master/TensorflowPod.podspec'
 
     end
     ```
