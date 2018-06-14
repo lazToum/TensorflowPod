@@ -26,7 +26,7 @@
 * Clone TensorflowPod repository
     ```
     $ cd ~/Code
-    $ git clone https://github.com/rainbean/TensorflowPod
+    $ git clone https://github.com/lazToum/TensorflowPod
     ```
 
 * Compile TensorFlow 
