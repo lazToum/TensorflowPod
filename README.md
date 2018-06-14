@@ -11,6 +11,11 @@
     ```
     $ brew install automake libtool
     ```
+    
+* [Prerequsite] Install gnu-tar
+    ```
+    $ brew install gnu-tar
+    ```
 
 * Clone TensorFlow repository
     ```
@@ -33,7 +38,6 @@
 * Pack necessary header and static library
     ```
     $ cd ~/Code/tensorflow
-    $ brew install gnu-tar
     $ ~/Code/TensorflowPod/pack.sh
     $ ls tensorflow.tar.gz
     ```
